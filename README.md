@@ -1,6 +1,9 @@
 # Identicon
 
-**TODO: Add description**
+Followed a [Udemy tutorial](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/lecture/5427948#overview) to build Identicons. Those geometric JPGs that you see as avatars on some sites.
+Provides an overview of Elixir's functional nature. Introduces structs and immutibility.
+
+
 
 ## Installation
 
